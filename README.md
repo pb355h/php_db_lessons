@@ -16,7 +16,9 @@ https://rimane.net/ajax-mysql-1021/
 #### PHP5.6 データベース入門 » #02 データベースの設定をしていこう
 https://dotinstall.com/lessons/basic_php_db/34202  
 
-php -S 192.168.33.10:8000
+php -S 192.168.33.10:8000  
+http://192.168.33.10/phpMyAdmin/index.php  
+http://192.168.33.10/info.php  
 
 CentOS 7.8.2003  
 Apache/2.4.6  
